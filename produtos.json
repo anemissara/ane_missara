@@ -1,0 +1,30 @@
+[
+  {
+    "categoria": "Semijoias",
+    "nome": "Anel Ouro",
+    "preco": 150.00,
+    "link_imagem": "https://raw.githubusercontent.com/SirAlgeri/ane_missara/refs/heads/main/images/Samuel%20Gostoso.jpg",
+    "id": 101
+  },
+  {
+    "categoria": "Semijoias",
+    "nome": "Colar Prata",
+    "preco": 200.00,
+    "link_imagem": "https://exemplo.com/imagem_colar_prata.jpg",
+    "id": 102
+  },
+  {
+    "categoria": "Tênis",
+    "nome": "Tênis Corrida X",
+    "preco": 350.00,
+    "link_imagem": "https://exemplo.com/imagem_tenis_corrida_x.jpg",
+    "id": 201
+  },
+  {
+    "categoria": "Tênis",
+    "nome": "Tênis Casual Y",
+    "preco": 299.99,
+    "link_imagem": "https://exemplo.com/imagem_tenis_casual_y.jpg",
+    "id": 202
+  }
+]

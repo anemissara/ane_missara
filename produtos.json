@@ -1,14 +1,14 @@
 [
   {
-    "categoria": "Semijoias",
-    "nome": "Anel Ouro",
-    "preco": 150.00,
-    "link_imagem": "https://raw.githubusercontent.com/SirAlgeri/ane_missara/refs/heads/main/images/Samuel%20Gostoso.jpg",
-    "id": 11231
+    "categoria": "Anéis",
+    "nome": "Anel",
+    "preco": 75.00,
+    "link_imagem": "images/Aneis Dourados/IMG_7732.jpeg",
+    "id": 6250
   },
   {
-    "categoria": "Semijoias",
-    "nome": "Colar Prata",
+    "categoria": "Anéis",
+    "nome": "Anel ",
     "preco": 200.00,
     "link_imagem": "https://raw.githubusercontent.com/SirAlgeri/ane_missara/refs/heads/main/images/Anivers%C3%A1rio%20Junior.jpg",
     "id": 102

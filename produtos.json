@@ -1,30 +1,65 @@
 [
   {
     "categoria": "Anéis",
-    "nome": "Anel",
+    "nome": "Anel Duplo Dourado",
     "preco": 75.00,
     "link_imagem": "images/Aneis Dourados/IMG_7732.jpeg",
     "id": 6250
   },
   {
     "categoria": "Anéis",
-    "nome": "Anel ",
-    "preco": 200.00,
-    "link_imagem": "https://raw.githubusercontent.com/SirAlgeri/ane_missara/refs/heads/main/images/Anivers%C3%A1rio%20Junior.jpg",
-    "id": 102
+    "nome": "Anel Geométrico Quadrado ",
+    "preco": 39.00,
+    "link_imagem": "images/Aneis Dourados/IMG_7735.jpeg",
+    "id": 4291
   },
   {
-    "categoria": "Tênis",
-    "nome": "Tênis Corrida X",
-    "preco": 350.00,
-    "link_imagem": "https://raw.githubusercontent.com/SirAlgeri/ane_missara/refs/heads/main/images/Samuel%20No%20Espelho.jpg",
-    "id": 201
+    "categoria": "Anéis",
+    "nome": "Anel Solitário Dourado",
+    "preco": 79.00,
+    "link_imagem": "images/Aneis Dourados/IMG_7737.jpeg",
+    "id": 7510
   },
   {
-    "categoria": "Tênis",
-    "nome": "Tênis Casual Y",
-    "preco": 299.99,
-    "link_imagem": "https://exemplo.com/imagem_tenis_casual_y.jpg",
-    "id": 202
+    "categoria": "Anéis",
+    "nome": "Anel Patinha Cravejado Dourado",
+    "preco": 49.00,
+    "link_imagem": "images/Aneis Dourados/IMG_7739.jpeg",
+    "id": 6625
+  },
+  {
+    "categoria": "Anéis",
+    "nome": "Aparador de Aliança Dourado",
+    "preco": 79.00,
+    "link_imagem": "images/Aneis Dourados/IMG_7742.jpeg",
+    "id": 10888
+  },
+  {
+    "categoria": "Anéis",
+    "nome": "Anel Zircônia Prata",
+    "preco": 49.00,
+    "link_imagem": "images/Aneis Prata/IMG_7745.jpeg",
+    "id": 306
+  },
+  {
+    "categoria": "Anéis",
+    "nome": "Anel Esferas Prata",
+    "preco": 65.00,
+    "link_imagem": "images/Aneis Prata/IMG_7748.jpeg",
+    "id": 3229
+  },
+  {
+    "categoria": "Anéis",
+    "nome": "Anel Ajustável Estrela Prata",
+    "preco": 49.00,
+    "link_imagem": "images/Aneis Prata/IMG_7750.jpeg",
+    "id": 5587
+  },
+  {
+    "categoria": "Anéis",
+    "nome": "Anel Duplo Prata",
+    "preco": 52.00,
+    "link_imagem": "images/Aneis Prata/IMG_7752.jpeg",
+    "id": 6903
   }
 ]

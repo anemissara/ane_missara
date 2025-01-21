@@ -61,5 +61,11 @@
     "preco": 52.00,
     "link_imagem": "images/Aneis Prata/IMG_7752.jpeg",
     "id": 6903
-  }
-]
+  },
+  {
+    "categoria": "Bracelete",
+    "nome": "Bracelete Nó Dourado",
+    "preco":89.00,
+    "link_imagem": "images/Bracelete/IMG_7702.jpeg",
+    "id": 8580
+  },

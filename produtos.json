@@ -68,3 +68,16 @@
     "link_imagem": "images/Bracelete/IMG_7702.jpeg",
     "id": 8580
    },
+   {"categoria": "Piercing Falso",
+    "nome": "Piercing Falso Estrela Dourado",
+    "preco": 29.00,
+    "link_imagem": "images/Brinco Falso/IMG_7720.jpeg",
+    "id": 8517
+  },
+  {"categoria": "Piercing Falso",
+    "nome": "Piercing Falso Prata",
+    "preco": 29.00,
+    "link_imagem": "images/Brinco Falso/IMG_7722.jpeg",
+    "id": 8561
+  }
+]

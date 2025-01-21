@@ -79,5 +79,95 @@
     "preco": 29.00,
     "link_imagem": "images/Brinco Falso/IMG_7722.jpeg",
     "id": 8561
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Folhas com Zircônias Dourado",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7668.jpeg",
+    "id": 76
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Infantil Estrela Dourado",
+    "preco": 21.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7671.jpeg",
+    "id": 4958
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Gota Cravejado Dourado",
+    "preco": 99.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7671.jpeg",
+    "id": 3817
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Classico Dourado",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7675.jpeg",
+    "id": 1155
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Estrela Dourado",
+    "preco": 39.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7676.jpeg",
+    "id": 7898
+  },
+  {"categoria": "Argolas",
+    "nome": "Argola Dourada com Zircônias",
+    "preco": 62.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7677.jpeg",
+    "id": 6459
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Coração Dourado",
+    "preco": 49.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7679.jpeg",
+    "id": 4744
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Zircônias Coloridas",
+    "preco": 39.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7680.jpeg",
+    "id": 2790
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Amor",
+    "preco": 29.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7681.jpeg",
+    "id": 4081
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Pérola Cravejado",
+    "preco": 62.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7682.jpeg",
+    "id": 4840
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Curvado Liso",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7695.jpeg",
+    "id": 3953
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Quadrado Cistal",
+    "preco": 39.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7683.jpeg",
+    "id": 4770
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Geomético Dourado",
+    "preco": 129.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7709.jpeg",
+    "id": 2940
+  },
+  {"categoria": "Argolas",
+    "nome": "Trio de Argolas Cravejado Dourado",
+    "preco": 189.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7711.jpeg",
+    "id": 2874
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Geométrico Dourado ",
+    "preco": 119.00,
+    "link_imagem": "images/Brincos Dourados/IMG_7714.jpeg",
+    "id": 2942
   }
 ]

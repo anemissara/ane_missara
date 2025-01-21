@@ -1,12 +1,12 @@
 // URL ou caminho do arquivo JSON com os produtos
 const jsonURL = "produtos.json"; // Altere para o caminho do seu arquivo JSON
 
-// Seleciona os contêineres do catálogo, modais e botões
+// Seleciona os contêineres do catálogo, modais e a área para o dropdown
 const catalog = document.getElementById("catalog");
 const modals = document.getElementById("modals");
-const buttonGroup = document.querySelector(".button-group");
+const dropdownContainer = document.querySelector(".dropdown-container");
 
-// Função para carregar o JSON e gerar os botões e produtos
+// Função para carregar o JSON e gerar o dropdown e produtos
 async function carregarProdutos() {
     try {
         // Faz o fetch do JSON
@@ -16,39 +16,30 @@ async function carregarProdutos() {
         // Obter categorias únicas e incluir "Todas"
         const categorias = ["Todas", ...new Set(produtos.map((produto) => produto.categoria))];
 
-        // Criar os botões para as categorias
+        // Criar o dropdown para as categorias
+        const select = document.createElement("select");
+        select.className = "dropdown";
+
         categorias.forEach((categoria) => {
-            const button = document.createElement("button");
-            button.textContent = categoria;
-            button.className = "button";
-            button.addEventListener("click", () => {
-                atualizarSelecaoBotao(button); // Atualiza a seleção
-                filtrarProdutos(categoria, produtos); // Aplica o filtro
-            });
-            buttonGroup.appendChild(button);
+            const option = document.createElement("option");
+            option.value = categoria;
+            option.textContent = categoria;
+            select.appendChild(option);
         });
 
-        // Seleciona o botão "Todas" por padrão
-        const primeiroBotao = buttonGroup.querySelector(".button");
-        if (primeiroBotao) {
-            primeiroBotao.classList.add("selected");
-        }
+        // Adiciona um evento de mudança para o dropdown
+        select.addEventListener("change", () => {
+            filtrarProdutos(select.value, produtos); // Filtra os produtos
+        });
+
+        // Adiciona o dropdown ao contêiner
+        dropdownContainer.appendChild(select);
 
         // Exibir todos os produtos inicialmente
         filtrarProdutos("Todas", produtos);
     } catch (error) {
         console.error("Erro ao carregar os produtos:", error);
     }
-}
-
-// Função para atualizar a classe do botão selecionado
-function atualizarSelecaoBotao(botaoSelecionado) {
-    // Remove a classe "selected" de todos os botões
-    const botoes = buttonGroup.querySelectorAll(".button");
-    botoes.forEach((botao) => botao.classList.remove("selected"));
-
-    // Adiciona a classe "selected" ao botão clicado
-    botaoSelecionado.classList.add("selected");
 }
 
 // Função para exibir os produtos filtrados

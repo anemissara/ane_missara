@@ -265,5 +265,41 @@
 "preco": 139.00,
 "link_imagem": "images/Correntes/IMG_7809.jpeg",
 "id": 1796
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Religioso Cruz Dourado",
+"preco": 49.00,
+"link_imagem": "images/Pingentes/IMG_7704.jpeg",
+"id": 11449
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Sapatinho Dourado Cravejado",
+"preco": 29.00,
+"link_imagem": "images/Pingentes/IMG_7706.jpeg",
+"id": 5183
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Trevo Com zircônias Coloridas Prata",
+"preco": 35.00,
+"link_imagem": "images/Pingentes/IMG_7708.jpeg",
+"id": 4706
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Lua Dourado",
+"preco": 29.00,
+"link_imagem": "images/Pingentes/IMG_7712.jpeg",
+"id": 5520
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Laço com Zircõnia Prata",
+"preco": 35.00,
+"link_imagem": "images/Pingentes/IMG_7716.jpeg",
+"id": 4647
+},
+{"categoria": "Pingentes",
+"nome": "Pingente Cristal Prata",
+"preco": 32.00,
+"link_imagem": "images/Pingentes/IMG_7724.jpeg",
+"id": 6497
 }
 ]

@@ -169,5 +169,59 @@
     "preco": 119.00,
     "link_imagem": "images/Brincos Dourados/IMG_7714.jpeg",
     "id": 2942
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Redondo com Pedras Prata",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Prata/IMG_7684.jpeg",
+    "id": 11470
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Geométrico Prata",
+    "preco": 35.00,
+    "link_imagem": "images/Brincos Prata/IMG_7685.jpeg",
+    "id": 8771
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco de Laço com Pedras Prata ",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Prata/IMG_7686.jpeg",
+    "id": 11513
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco de Flor Prata ",
+    "preco": 59.00,
+    "link_imagem": "images/Brincos Prata/IMG_7687.jpeg",
+    "id": 8693
+  },
+  {"categoria": "Argolas",
+    "nome": "Argola Quadrada Cravejada Prata",
+    "preco": 65.00,
+    "link_imagem": "images/Brincos Prata/IMG_7689.jpeg",
+    "id": 2857
+  },
+  {"categoria": "Argolas",
+    "nome": "Argola Prata Com Zircônias ",
+    "preco": 119.00,
+    "link_imagem": "images/Brincos Prata/IMG_7691.jpeg",
+    "id": 9896
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco Losango Prata ",
+    "preco": 72.00,
+    "link_imagem": "images/Brincos Prata/IMG_7694.jpeg",
+    "id": 4054
+  },
+  {"categoria": "Argolas",
+    "nome": "Argola Simples Prata ",
+    "preco": 99.00,
+    "link_imagem": "images/Brincos Prata/IMG_7726.jpeg",
+    "id": 7769
+  },
+  {"categoria": "Brincos",
+    "nome": "Brinco com Pedra Prata",
+    "preco": 129.00,
+    "link_imagem": "images/Brincos Prata/IMG_7727.jpeg",
+    "id": 2947
   }
 ]

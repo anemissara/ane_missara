@@ -291,15 +291,39 @@
 "id": 5520
 },
 {"categoria": "Pingentes",
-"nome": "Pingente Laço com Zircõnia Prata",
+"nome": "Pingente Laço com Zircônia Prata",
 "preco": 35.00,
 "link_imagem": "images/Pingentes/IMG_7716.jpeg",
 "id": 4647
 },
-{"categoria": "Pingentes",
-"nome": "Pingente Cristal Prata",
-"preco": 32.00,
-"link_imagem": "images/Pingentes/IMG_7724.jpeg",
-"id": 6497
+{"categoria": "Pulseiras",
+"nome": "Pulseira de Coração Prata",
+"preco": 42.00,
+"link_imagem": "images/Pulseiras Prata/IMG_7776.jpeg",
+"id": 9956
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Circulo com Zircônias Prata",
+"preco": 65.00,
+"link_imagem": "images/Pulseiras Prata/IMG_7781.jpeg",
+"id": 862
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseiras com Zircônias Prata",
+"preco": 65.00,
+"link_imagem": "images/Pulseiras Prata/IMG_7783.jpeg",
+"id": 5453
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Coração Prata",
+"preco": 39.00,
+"link_imagem": "images/Pulseiras Prata/IMG_7785.jpeg",
+"id": 4337
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Coração Vazado",
+"preco": 59.00,
+"link_imagem": "images/Pulseiras Prata/IMG_7787.jpeg",
+"id": 6508
 }
 ]

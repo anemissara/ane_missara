@@ -223,5 +223,29 @@
     "preco": 129.00,
     "link_imagem": "images/Brincos Prata/IMG_7727.jpeg",
     "id": 2947
+  },
+  {"categoria": "Colar",
+    "nome": "Colar Divino Espírito Santo Dourado",
+    "preco": 119.00,
+    "link_imagem": "images/Colares/IMG_7696.jpeg",
+    "id": 7409
+  },
+  {"categoria": "Colar",
+    "nome": "Colar Choker de Estrela Dourada",
+    "preco": 79.00,
+    "link_imagem": "images/Colares/IMG_7699.jpeg",
+    "id": 10685
+  },
+  {"categoria": "Colar",
+    "nome": "Colar Choker de Circulos Prata",
+    "preco": 119.00,
+    "link_imagem": "images/Colares/IMG_7700.jpeg",
+    "id": 5101
+  },
+  {"categoria": "Colar",
+    "nome": "Colar Gravatinha Prata Com Zircônias",
+    "preco": 99.00,
+    "link_imagem": "images/Colares/IMG_7707.jpeg",
+    "id": 8872
   }
 ]

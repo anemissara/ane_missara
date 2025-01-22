@@ -321,6 +321,36 @@
 "id": 4337
 },
 {"categoria": "Pulseiras",
+"nome": "Pulseira Pérola Dourada",
+"preco": 59.00,
+"link_imagem": "images/Pulseiras/IMG_7758.jpeg",
+"id": 5030
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Circulos Dourada",
+"preco": 49.00,
+"link_imagem": "images/Pulseiras/IMG_7765.jpeg",
+"id": 4313
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Mamãe de Pet",
+"preco": 99.00,
+"link_imagem": "images/Pulseiras/IMG_7767.jpeg",
+"id": 5476
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira com Zircônias Dourada",
+"preco": 59.00,
+"link_imagem": "images/Pulseiras/IMG_7769.jpeg",
+"id": 5037
+},
+{"categoria": "Pulseiras",
+"nome": "Pulseira Elo Baiano",
+"preco": 85.00,
+"link_imagem": "images/Pulseiras/IMG_7770.jpeg",
+"id": 853
+},
+{"categoria": "Pulseiras",
 "nome": "Pulseira Coração Vazado",
 "preco": 59.00,
 "link_imagem": "images/Pulseiras Prata/IMG_7787.jpeg",

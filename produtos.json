@@ -247,5 +247,17 @@
     "preco": 99.00,
     "link_imagem": "images/Colares/IMG_7707.jpeg",
     "id": 8872
-  }
+  },
+  {"categoria": "Conjuntos",
+  "nome": "Conjunto Colar e Brincos Pedra Prata",
+  "preco": 119.00,
+  "link_imagem": "images/Conjuntos/IMG_7730.jpeg",
+  "id": 2578
+},
+{"categoria": "Conjuntos",
+"nome": "Conjunto Dourado com Pedras vermelhas",
+"preco": 99.00,
+"link_imagem": "images/Conjuntos/IMG_7731.jpeg",
+"id": 2902
+}
 ]

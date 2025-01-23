@@ -42,7 +42,6 @@ async function carregarProdutos() {
     }
 }
 
-// Função para exibir os produtos filtrados
 function filtrarProdutos(categoria, produtos) {
     // Limpa o catálogo e os modais
     catalog.innerHTML = "";
@@ -60,9 +59,9 @@ function filtrarProdutos(categoria, produtos) {
         productDiv.className = "product";
 
         productDiv.innerHTML = `
-            <a href="#modal${index + 1}">
+            <div onclick="abrirModal(${index + 1})">
                 <img src="${produto.link_imagem}" alt="${produto.nome}">
-            </a>
+            </div>
             <div class="product-name">${produto.nome}</div>
             <div class="product-price">R$ ${produto.preco.toFixed(2)}</div>
             <div class="product-id">ID - ${produto.id}</div>
@@ -76,14 +75,28 @@ function filtrarProdutos(categoria, produtos) {
         modalDiv.className = "modal";
 
         modalDiv.innerHTML = `
-            <a href="#">
-                <img src="${produto.link_imagem}" alt="${produto.nome}">
-            </a>
+            <div class="modal-content">
+                <img src="${produto.link_imagem}" alt="${produto.nome}" onclick="fecharModal(${index + 1})">
+            </div>
         `;
 
         modals.appendChild(modalDiv);
     });
 }
+
+// Funções para abrir e fechar modais
+function abrirModal(index) {
+    const modal = document.getElementById(`modal${index}`);
+    modal.style.display = "flex"; // Mostra o modal
+    document.body.style.overflow = "hidden"; // Desabilita o scroll da página
+}
+
+function fecharModal(index) {
+    const modal = document.getElementById(`modal${index}`);
+    modal.style.display = "none"; // Oculta o modal
+    document.body.style.overflow = ""; // Habilita o scroll da página novamente
+}
+
 
 // Chama a função para carregar os produtos
 carregarProdutos();

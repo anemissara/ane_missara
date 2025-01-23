@@ -434,3 +434,39 @@ footer p {
     border-color: #c03b4f;
     box-shadow: 0 0 5px rgba(192, 59, 79, 0.5);
 }
+
+.modal {
+    display: none; /* Inicialmente escondido */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+.modal {
+    display: none; /* Inicialmente escondido */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.close-modal {
+    background: transparent;
+    border: none;
+    font-size: 2.0rem;
+    cursor: pointer;
+}
+
+.modal-content img {
+    cursor: pointer; /* Indica que a imagem é clicável */
+}

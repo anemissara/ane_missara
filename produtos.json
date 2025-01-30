@@ -1,11 +1,5 @@
 [
-  {
-    "categoria": "Anéis",
-    "nome": "Anel Duplo Dourado",
-    "preco": 75.00,
-    "link_imagem": "images/Aneis Dourados/IMG_7732.jpeg",
-    "id": 6250
-  },
+  
   {
     "categoria": "Anéis",
     "nome": "Anel Geométrico Quadrado ",
@@ -331,12 +325,6 @@
 "preco": 49.00,
 "link_imagem": "images/Pulseiras/IMG_7765.jpeg",
 "id": 4313
-},
-{"categoria": "Pulseiras",
-"nome": "Pulseira Mamãe de Pet",
-"preco": 99.00,
-"link_imagem": "images/Pulseiras/IMG_7767.jpeg",
-"id": 5476
 },
 {"categoria": "Pulseiras",
 "nome": "Pulseira com Zircônias Dourada",

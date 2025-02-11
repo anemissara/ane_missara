@@ -23,13 +23,6 @@
   },
   {
     "categoria": "Anéis",
-    "nome": "Aparador de Aliança Dourado",
-    "preco": 79.00,
-    "link_imagem": "images/Aneis Dourados/IMG_7742.jpeg",
-    "id": 10888
-  },
-  {
-    "categoria": "Anéis",
     "nome": "Anel Zircônia Prata",
     "preco": 49.00,
     "link_imagem": "images/Aneis Prata/IMG_7745.jpeg",
@@ -146,12 +139,6 @@
     "link_imagem": "images/Brincos Dourados/IMG_7683.jpeg",
     "id": 4770
   },
-  {"categoria": "Brincos",
-    "nome": "Brinco Geomético Dourado",
-    "preco": 129.00,
-    "link_imagem": "images/Brincos Dourados/IMG_7709.jpeg",
-    "id": 2940
-  },
   {"categoria": "Argolas",
     "nome": "Trio de Argolas Cravejado Dourado",
     "preco": 189.00,
@@ -254,12 +241,6 @@
 "link_imagem": "images/Conjuntos/IMG_7731.jpeg",
 "id": 2902
 },
-{"categoria": "Correntes",
-"nome": "Corrente Elo Baiano Dourado",
-"preco": 139.00,
-"link_imagem": "images/Correntes/IMG_7809.jpeg",
-"id": 1796
-},
 {"categoria": "Pingentes",
 "nome": "Pingente Religioso Cruz Dourado",
 "preco": 49.00,
@@ -279,22 +260,10 @@
 "id": 4706
 },
 {"categoria": "Pingentes",
-"nome": "Pingente Lua Dourado",
-"preco": 29.00,
-"link_imagem": "images/Pingentes/IMG_7712.jpeg",
-"id": 5520
-},
-{"categoria": "Pingentes",
 "nome": "Pingente Laço com Zircônia Prata",
 "preco": 35.00,
 "link_imagem": "images/Pingentes/IMG_7716.jpeg",
 "id": 4647
-},
-{"categoria": "Pulseiras",
-"nome": "Pulseira de Coração Prata",
-"preco": 42.00,
-"link_imagem": "images/Pulseiras Prata/IMG_7776.jpeg",
-"id": 9956
 },
 {"categoria": "Pulseiras",
 "nome": "Pulseira Circulo com Zircônias Prata",
@@ -331,12 +300,6 @@
 "preco": 59.00,
 "link_imagem": "images/Pulseiras/IMG_7769.jpeg",
 "id": 5037
-},
-{"categoria": "Pulseiras",
-"nome": "Pulseira Elo Baiano",
-"preco": 85.00,
-"link_imagem": "images/Pulseiras/IMG_7770.jpeg",
-"id": 853
 },
 {"categoria": "Pulseiras",
 "nome": "Pulseira Coração Vazado",
